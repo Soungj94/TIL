@@ -1,0 +1,53 @@
+vscode 단축키 
+
+f1 command pallette
+
+command + p 원하는 파일 선택 가능 quick open
+
+command + , 설정 창 user settings
+
+command + b : toggle sidebar
+
+ctrl 백틱: toggle terminal
+
+ctrl shift 백틱: new terminal
+
+command K +S shortcut listshttps://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf
+
+ 
+
+ 
+
+command arrow keys = 문장 첫 부터 끝, 위 부터 아래 
+
+command shift 문장 전체 선택
+
+command enter: 무조건 다음 문장으로 점프
+
+ 
+
+option left or right 단어별로 움직임 가능 ( 문장전체선택해서 움직이는 것도 가능)
+
+option down or up: 그 문장을 원하는 공간으로 움직임 가능
+
+option shift: 단어 전체 선택가능
+
+option shift down or up: 원하는 라인 복붙 기능 
+
+ 
+
+option cursor: 비슷한 단어를 한꺼번에 클릭해서 다중으로 고칠 수 있음
+
+option shift drag 다중으로 선택가능
+
+option shift + i 마우스로 전체 선택후 누르면 다중으로 선택가능(해당하는 중 맨 끝에 
+
+ 
+
+command + c 단 끝에서도 복붙 가능
+
+Command + x 잘라내기
+
+command + d  multiselection 
+
+command + u last cursor
