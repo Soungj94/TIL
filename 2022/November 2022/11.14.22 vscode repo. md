@@ -1,0 +1,25 @@
+내가 오늘 생각해냈던 아이디어들
+
+/자살방지앱 (얘기하지 못 하는 사람들을 위해 들어줍니다)
+1. 내마음을 얘기하자
+2. 상담사 연결 의사들 빅데이터
+3. 긴급버튼
+4. 마음 가짐 앱 (도움영상)
+5. 커뮤니티에서의 도움
+
+마지막 프로젝트때 사용하면 좋을 것 같다
+
+vscode 에서 터미널로 push pull 하는 방법은 이와 동일하다 
+https://teamsparta.notion.site/Github-f2e90854e78b43c2915c50b230f728a1
+
+organization repo 에서 push pull 방법으로하기 
+1. gitgraph 를 깔고 
+2. 오픈 파일: 빈파일을 연동 시켜준다
+3. git clone 가장 가운데있는거로 org repo url master로 걸어둔뒤
+4. 좌측 맨아래 클릭하면, 내 브렌치 설정가능!
+5. 다시 소스 케어로 돌아와서 커밋하면 완료!
+
+공부해야 할 것
+- http 통신, request response(header body), status method, SSR,  CSR,  JWT
+- 1주차 프로젝트 order query, 와 온클릭시 카드 붙이기 
+- 로그인 영상시청
